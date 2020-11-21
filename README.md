@@ -6,6 +6,11 @@
 3. npm start
 4. Server would be hosted on https://localhost:5443/
 
+## Packages Used-:
+1. CORS
+2. Express
+3. Passport
+
 ## Steps to be performed on Postman/Insomnia
 
 1.	Signup
